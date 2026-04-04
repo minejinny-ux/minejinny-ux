@@ -64,6 +64,8 @@
 
 ---
 
+---
+
 ## Development Metrics
 
 <p align="center">
@@ -80,20 +82,12 @@
 ## Contribution Visualization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minejinny-ux/Shoaib-R/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/minejinny-ux/minejinny-ux/output/github-snake.svg" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minejinny-ux&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
 </p>
-
----
-## Contribution Visualization
-
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## Engineering Philosophy
