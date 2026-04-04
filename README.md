@@ -62,19 +62,32 @@
 
 ---
 
+---
+
 ## Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minejinny-ux&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minejinny-ux&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minejinny-ux&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## Contribution Visualization
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/minejinny-ux/Shoaib-R/output/github-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minejinny-ux&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
+</p>
+
+---
 ## Contribution Visualization
 
 <p align="center">
