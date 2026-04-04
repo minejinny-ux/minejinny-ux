@@ -88,6 +88,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minejinny-ux&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
 </p>
+
 ---
 
 ## Engineering Philosophy
